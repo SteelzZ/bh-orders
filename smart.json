@@ -1,0 +1,9 @@
+{
+  "name": "bh-orders",
+  "description": "Orders management base package.",
+  "homepage": "https://github.com/SteelzZ/bh-orders",
+  "author": "Tomas Bartkus <to.bartkus@gmail.com> (http://codetemple.blogspot.com)",
+  "version": "0.0.1",
+  "git": "https://github.com/SteelzZ/bh-orders.git",
+  "packages": {}
+}
